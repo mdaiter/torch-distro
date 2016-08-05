@@ -22,6 +22,7 @@
 [submodule "extra/cutorch"]
 	path = extra/cutorch
 	url = https://github.com/mdaiter/cutorch.git
+	branch = master
 [submodule "pkg/torch"]
 	path = pkg/torch
 	url = https://github.com/torch/torch7.git
